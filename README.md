@@ -30,7 +30,7 @@ Follow these simple steps to get the project up and running on your device:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Adi5423/Instagram_Clone_Flutter.git](https://github.com/Adi5423/Instagram_Clone_Flutter.git)
+    git clone https://github.com/Adi5423/Instagram_Clone_Flutter.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
