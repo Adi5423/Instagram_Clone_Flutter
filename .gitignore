@@ -1,0 +1,79 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+
+# The .gitignore file for a Flutter project
+
+# IDE and build-related files
+.dart_tool/
+.idea/
+.git
+.vscode/
+build/
+.metadata
+*.iml
+.flutter-plugins
+.flutter-plugins-dependencies
+.DS_Store
+
+# Platform-specific build directories
+android/
+ios/
+linux/
+macos/
+windows/
+web/
+
+# Dependencies
+# While 'pubspec.lock' is typically committed for team projects, 
+# you can uncomment this line to ignore it for personal use.
+# pubspec.lock
+
+# The following files contain user and editor settings, and should not be committed.
+# Only commit the 'analysis_options.yaml' file, not the user-specific one.
+*.local
+.packages
+
